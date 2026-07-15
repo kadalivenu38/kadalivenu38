@@ -1,250 +1,155 @@
-<!--==============================-->
-<!--          HEADER              -->
-<!--==============================-->
+<!-- ============================= -->
+<!--            HEADER             -->
+<!-- ============================= -->
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kadali Venu</h1>
 
-# Hi 👋 I'm **Kadali Venu**
+<h3 align="center">
+Full Stack Web Developer 
+</h3>
 
-### AI Engineering Student • Full Stack Developer • MERN Stack • Python Developer
+<p align="center">
+I don't just learn technologies — I build practical AI-powered applications that solve real-world problems.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Full+Stack+Developer;MERN+Developer;Python+Developer;Flutter+Developer;Building+AI+Powered+Applications;Always+Learning+New+Things"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kadalivenu38&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400"/>
+</p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+- 🎓 B.Tech Computer Science & Engineering (Artificial Intelligence)
+- 💻 Full Stack Developer focused on MERN Stack and Python
+- 🤖 Passionate about Artificial Intelligence and Generative AI
+- 🚀 Building practical AI-powered web applications
+- 🧩 Solved **400+ DSA problems**
+- 🌱 Currently learning **AI Engineering, Agentic AI, MCP, Docker and System Design**
 
-🎓 B.Tech CSE (Artificial Intelligence)
+---
 
-💻 Full Stack Developer
+# 🚀 What Sets Me Apart
 
-🤖 AI Enthusiast
+- I focus on building complete applications instead of isolated features
+- I enjoy integrating AI into real-world software
+- I continuously improve my DSA and problem-solving skills
+- I believe in writing clean, maintainable, and scalable code
+- I learn by building projects rather than just completing courses
 
-🌱 Currently Learning
+---
 
-- AI Engineering
-- Agentic AI
-- MCP
-- Docker
-- System Design
+# 🏆 Featured Projects
 
-💡 Interested In
+## 🤖 Resume Builder (MERN + Gemini AI)
 
-- Generative AI
-- Full Stack Development
-- Cloud
-- Open Source
+🔗 Repository: https://github.com/kadalivenu38/Resume-Builder
 
-⚡ Fun Fact
+- AI-assisted resume content generation
+- Multiple resume templates
+- Resume upload & parsing
+- PDF export
+- User authentication
+- Responsive modern UI
 
-> I love building practical software that solves real-world problems.
+---
+
+## 💬 AI Chatbot Web Application
+
+🔗 Repository: https://github.com/kadalivenu38/AI-Chatbot-Web-Application
+
+- MERN Stack application
+- Gemini API integration
+- AI chat
+- AI image generation
+- Credit-based usage
+- Community gallery
+
+---
+
+## 🎨 AI Poster Generator
+
+🔗 Repository: https://github.com/kadalivenu38/ai-poster-generator
+
+- Built using Python & Streamlit
+- Gemini API integration
+- AI-generated poster creation
+- Fast and interactive interface
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker"/>
 
 </p>
 
 ---
 
-## Frontend
+# ⚡ Current Focus
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-</p>
+- Artificial Intelligence
+- Agentic AI
+- MERN Stack Development
+- REST APIs
+- Docker
+- System Design
+- Data Structures & Algorithms
 
 ---
 
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kadalivenu38&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kadalivenu38&theme=tokyonight&hide_border=true" height="220"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kadalivenu38&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kadalivenu38&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadalivenu38&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadalivenu38&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://linkedin.com/in/kadalivenu">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kadalivenu38&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kadalivenu38&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 Resume Builder | AI-powered Resume Builder using MERN + Gemini API |
-| 💬 AI Chatbot | ChatGPT-like AI assistant with image generation |
-| 🎨 AI Poster Generator | Streamlit + Gemini AI |
-
----
-
-# 📚 Currently Learning
-
-```text
-✓ AI Engineering
-
-✓ Agentic AI
-
-✓ Docker
-
-✓ MCP
-
-✓ Kubernetes
-
-✓ System Design
-
-✓ Full Stack Development
-```
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:kadalivenu38@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/kadalivenu38">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/kadalivenu38/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="YOUR_HACKERRANK">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 Goal
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kadalivenu38/kadalivenu38/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=kadalivenu38&color=blue&style=for-the-badge)
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+> Build intelligent software that combines Artificial Intelligence with scalable full-stack development to solve real-world problems.
