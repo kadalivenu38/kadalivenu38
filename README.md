@@ -179,24 +179,7 @@
 |---------|-------------|
 | 🤖 Resume Builder | AI-powered Resume Builder using MERN + Gemini API |
 | 💬 AI Chatbot | ChatGPT-like AI assistant with image generation |
-| 🌾 Smart Agri Connect | Flutter application for farmers |
 | 🎨 AI Poster Generator | Streamlit + Gemini AI |
-
----
-
-# 🏅 Achievements
-
-🏆 Project Presentation Winner (VEDA 2K24)
-
-💻 300+ LeetCode Problems
-
-⭐ HackerRank Python
-
-⭐ HackerRank SQL
-
-🎖 Microsoft Certifications
-
-🎖 IBM SQL Certification
 
 ---
 
@@ -214,6 +197,8 @@
 ✓ Kubernetes
 
 ✓ System Design
+
+✓ Full Stack Development
 ```
 
 ---
